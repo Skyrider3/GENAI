@@ -43,7 +43,7 @@ Explore the different directories to find implementations, tutorials, and docume
 
 ## Contributing
 
-We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to get started.
+We welcome contributions from the community! Please see our [CONTRIBUTIONS.md](CONTRIBUTIONS.md) file for details on how to get started.
 
 ## License
 
