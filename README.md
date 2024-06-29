@@ -1,5 +1,4 @@
 # GENAI Repository
-# GENAI-LLM-REPOSITORY
 
 This repository is a comprehensive resource for researchers and practitioners working with Large Language Models (LLMs). It contains implementations, tutorials, and documentation on various advanced techniques and fundamental concepts related to LLMs.
 
